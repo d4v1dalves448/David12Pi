@@ -15,7 +15,7 @@ public class Exercicio22 {
         System.out.println("4- Sobremesa");
         System.out.println("5- Sair");
     }
-    // Método para exibir o menu
+ 
     public static void mensagemDeBoasVindas() {
         System.out.println("Seja Bem Vindo"); 
     }
