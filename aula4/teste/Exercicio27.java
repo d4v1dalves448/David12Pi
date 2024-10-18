@@ -1,6 +1,7 @@
 package teste;
 
 public class Exercicio27 {
+    
     public static void main(String[] args) {
 
         String idade = "30";
