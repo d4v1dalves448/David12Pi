@@ -17,7 +17,7 @@ public class Exercicio25 {  // Declaração da classe principal
         if (idade >= 18) {  // Se maior ou igual a 18
         mostrarMenuAdulto(idade);   // Mostra menu adulto
     } else {    // Senão
-        mostrarMenuMenor(); // Mostra menu menor
+        mostrarMenuMenor(); // Mostrar menu menor
         }
     }
         
