@@ -21,3 +21,4 @@ public class Exercicio30 {
         System.out.println("Média original: "+ media);  // Mostra a média original
         System.out.println("Média convertida: " + mediaInt);    // Mostra a média convertida para inteiro
     }
+}
