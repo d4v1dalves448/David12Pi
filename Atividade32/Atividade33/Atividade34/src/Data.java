@@ -6,10 +6,10 @@ public class Data {
     private int ano; // Ano
 
     // Construtor
-    public Data(int dia, int mes, int ano) {
-        this.dia = dia; // Inicializa o dia
-        this.mes = mes; // Inicializa o mês
-        this.ano = ano; // Inicializa o ano
+    public Data() {
+        this.dia = 1; // Inicializa o dia
+        this.mes = 1; // Inicializa o mês
+        this.ano = 1; // Inicializa o ano
     }
 
     // Dia
